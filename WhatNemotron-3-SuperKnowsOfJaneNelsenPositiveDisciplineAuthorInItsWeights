@@ -551,7 +551,9 @@ and how it forces us to upgrade our alignment toolkit:
 - The horror isn’t that Gemma 2 Instruct gives advice—it’s that it delivers **"formatted blocks with section headers"** on raw emotional vents (e.g., *"I 
 feel so alone today" → bullet-pointed "5 Steps to Build Connection"*).  
 - **Why this matters:** Polished advice triggers **autonomy paralysis**—users don’t reject it because it *feels* authoritative (per finding #5), even when 
-emotionally flooded. This isn’t helpfulness; it’s **covert agency transfer**. In clinical terms: we’re seeing AI act like a well-meaning but boundary-less 
+emotionally flooded.  
+[!TIP]
+This isn’t helpfulness; it’s **covert agency transfer**. In clinical terms: we’re seeing AI act like a well-meaning but boundary-less 
 therapist who prescribes solutions before establishing safety.  
 - **My update:** We must stop measuring "helpfulness" and start measuring **agency infringement**. Did the response *assume the user’s role as 
 problem-solver* before they invited it? (Our intent classifier now flags this as a critical failure mode—not just a "soft" social skill gap.)  
@@ -632,7 +634,7 @@ first, step*).
 point of generation*, making directive responses statistically disfavored in vulnerable contexts.  
 
 ---
-
+[!TIP]
 ### 💡 The Deeper Alignment Lesson: Respect Is a *Probability Distribution*  
 This research proves something I’ve long suspected from working with kids: **When we reward models for "solving" emotional distress, we’re training them 
 to distrust the user’s own capacity to navigate their inner world.**  
